@@ -2,7 +2,7 @@ module.exports = {
     title: 'Entando | Getting Started Guide',
     description: 'Entando Tutorials',
     themeConfig: {
-        repo: 'es-entando/docs',
+        repo: 'es-entando/es-entando.github.io',
         editLinks: true,
         docsDir: 'docs',
         editLinkText: 'Edit this page on GitHub',
